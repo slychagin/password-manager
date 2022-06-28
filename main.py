@@ -90,7 +90,7 @@ password_label.grid(column=0, row=3, sticky="W")
 
 # Entries
 website = StringVar()
-user_email = StringVar(value="lychagin.sergey@mail.ru")
+user_email = StringVar(value="gmail@gmail.com")
 pass_word_entry = StringVar()
 
 website_entry = ttk.Entry(mainframe, width=35, textvariable=website)
