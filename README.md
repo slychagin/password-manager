@@ -2,7 +2,7 @@
 ### Save your password and forget it!
 
 ### Application at work:
-![password-manager-gif](https://tenor.com/view/gif-26074709)
+![password-manager-gif](https://tenor.com/view/gif-26074709.gif)
 
 ### Technologies:
 - Python 3;
