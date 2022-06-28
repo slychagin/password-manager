@@ -7,7 +7,7 @@ When you click the add button the password, e-mail and site are saved to a file.
 Also implemented is the ability to search for a password by the name of the site.
 
 ### Application at work:
-![password-manager-gif](https://github.com/slychagin/password-manager/blob/master/gifs/pass_manage.gif)
+![password-manager-gif](https://github.com/slychagin/password-manager/blob/master/gifs/presentation.gif)
 
 ### Technologies:
 - Python 3;
