@@ -12,5 +12,6 @@
 - `git clone https://github.com/slychagin/password-manager.git`;
 - you must have Python 3 installed on your computer;
 - make sure that the directory for the python bin/folder are included in your $PATH environment variable;
+- `pip install pyperclip`;
 - `cd password-manager`;
 - `python main.py`.
